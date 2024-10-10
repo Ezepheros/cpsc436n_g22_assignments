@@ -1,1 +1,3 @@
-# cpsc436n_g22_assignments
+# cpsc436n assignments
+
+Make your own branch off of each assignment
